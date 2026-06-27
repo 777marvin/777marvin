@@ -1,4 +1,4 @@
-# Marvin Knabe
+# Marvin K.
 
 **Mechanical-engineering technician (in training) building software with AI agents
 through a spec-first, version-controlled process.**
