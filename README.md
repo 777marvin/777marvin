@@ -1,22 +1,114 @@
-# Marvin | AI Orchestrator & Systems Builder
-> **Engineering scalable software ecosystems through autonomous multi-agent orchestration.**
+<div align="center">
 
-I approach software development from an engineering perspective: designing architectures rather than manually writing syntax. Utilizing the **BMAD Framework** (Benchmark, Modularize, Automate, Deploy), I construct applications by orchestrating specialized AI agent workflows. 
+# Hi, I'm **777marvin** (Marvin)
 
-From code architecture to automating complex DevOps pipelines, I leverage AI agents to scale my execution loop and rapidly master new technological domains.
+### AI Orchestrator & Systems Builder
+
+Germany -- State-Certified Technologist (Mechanical Engineering) moving into Software Architecture
+
+![Visitors](https://img.shields.io/badge/dynamic/json?color=blueviolet&label=Visitors&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fget%2F777marvin%2Fvisitors)
+![Followers](https://img.shields.io/github/followers/777marvin?style=social)
+
+[![AiderDesk](https://img.shields.io/badge/AiderDesk-blue?style=flat-square)](https://aiderdesk.ai)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)](https://www.rust-lang.org)
+[![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black)](https://tauri.app)
+[![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)](https://threejs.org)
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev)
+
+</div>
 
 ---
 
-### ⚙️ The Core Engine
-* **Methodology:** BMAD (Deterministic Prompt Engineering & Multi-Agent Frameworks)
+> **Building scalable software ecosystems through autonomous multi-agent orchestration.**
+
+I approach software development from an engineering perspective: designing architectures rather than manually writing syntax. Using the **BMAD Framework** (Benchmark, Modularize, Automate, Deploy), I construct applications by orchestrating specialized AI agent workflows.
+
+From code architecture to automating DevOps pipelines, I leverage AI agents to scale my execution loop and rapidly master new technological domains.
+
+---
+
+### The Core Engine
+
+* **Methodology:** BMAD -- Deterministic Prompt Engineering & Multi-Agent Frameworks
 * **Orchestration Stack:** AiderDesk & Custom Agent Environments
 * **Engineering Foundation:** Transitioning structural logic from Mechanical Engineering (State-Certified Technologist, i.A.) into software architecture.
 
-## 🧠 The Paradigm | Engineering at the Speed of Thought
-The exponential acceleration of AI isn't just changing tools; it's expanding the horizon of what a single builder can achieve. 
+---
 
-I don't view AI orchestration as a replacement for traditional software engineering, but as its ultimate catalyst. When I first began experimenting with multi-agent workflows, it felt like unlocking a gateway to unlimited architectural possibilities. 
+## The Paradigm
 
-Driven by intense curiosity and the rapid pace of technological innovation, my mission is to build software with high energy, clean logic, and maximum utility. For me, this ecosystem is about exploring new frontiers, turning complex ideas into deployed systems, and driving efficiency forward.
+Accelerating AI capabilities expand what a single builder can achieve. Multi-agent orchestration amplifies traditional software engineering rather than replacing it.
 
+Driven by curiosity and the pace of technological innovation, my focus is building software with clean logic and practical utility.
 
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=777marvin&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=777marvin&theme=radical&hide_border=true)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=777marvin&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## Featured Projects
+
+### gravity-garden
+*Interactive gravitational simulation in the browser*
+
+**Vite, Canvas 2D, Vanilla JS, Vercel**
+
+Click to place planets -- they orbit and merge according to Newtonian physics.
+
+[Try it](https://gravity-garden.vercel.app) · [View Code](https://github.com/777marvin/gravity-garden)
+
+### prompt-engineer
+*Local desktop app for learning prompt engineering*
+
+**Tauri v2, React 18, Rust, 100% local -- no account required**
+
+Guided exercises, instant feedback, everything runs on your machine.
+
+[View Code](https://github.com/777marvin/prompt-engineer)
+
+---
+
+## Building: Genesis Machine
+
+> An interactive 3D-CAD-inspired portfolio that assembles itself before your eyes.
+> Each component represents a skill or project -- mechanical engineering aesthetics meet Three.js.
+
+*Three.js, Vite, React, Rust (planned)*
+
+---
+
+## Tech Stack
+
+| Domain | Technologies |
+|---|---|
+| **Orchestration** | AiderDesk, BMAD, Multi-Agent Frameworks |
+| **Frontend** | Vite, JavaScript, Canvas 2D, React, Three.js |
+| **Desktop** | Rust, Tauri v2 |
+| **Deployment** | Vercel, Git, Node.js |
+
+---
+
+<div align="center">
+
+## Let's Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-777marvin-181717?style=for-the-badge&logo=github)](https://github.com/777marvin)
+
+---
+
+*Built by Marvin -- AI Orchestrator & Systems Builder*
+
+</div>
