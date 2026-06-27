@@ -61,14 +61,7 @@ Driven by curiosity and the pace of technological innovation, my focus is buildi
 
 ## Featured Projects
 
-### gravity-garden
-*Interactive gravitational simulation in the browser*
 
-**Vite, Canvas 2D, Vanilla JS, Vercel**
-
-Click to place planets -- they orbit and merge according to Newtonian physics.
-
-[Try it](https://gravity-garden.vercel.app) · [View Code](https://github.com/777marvin/gravity-garden)
 
 ### prompt-engineer
 *Local desktop app for learning prompt engineering*
@@ -79,16 +72,7 @@ Guided exercises, instant feedback, everything runs on your machine.
 
 [View Code](https://github.com/777marvin/prompt-engineer)
 
----
 
-## Building: Genesis Machine
-
-> An interactive 3D-CAD-inspired portfolio that assembles itself before your eyes.
-> Each component represents a skill or project -- mechanical engineering aesthetics meet Three.js.
-
-*Three.js, Vite, React, Rust (planned)*
-
----
 
 ## Tech Stack
 
