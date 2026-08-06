@@ -19,18 +19,13 @@ My focus is the intersection I know best: **mechanical-engineering domain knowle
   not just the result.
 
 ### Currently
-- Building my first public project — **[prompt-engineer](https://github.com/777marvin/prompt-engineer)**,
-  a local, offline desktop app for practicing prompt engineering
-  (`Tauri v2` · `React` · `TypeScript`). Early development; planning artifacts public in the repo.
 - Completing my qualification as **State-Certified Technician, Mechanical Engineering**
   (expected July 2027).
 
-### Building with
-`Tauri v2` · `React` · `TypeScript` · `Vite` · `Zustand` — orchestrated via `AiderDesk` and the `BMAD` method.
 
 ### Contact
 - 📧 777marvin.dev@proton.me
-- 💼 LinkedIn — *coming soon*
+- 💼 LinkedIn — https://www.linkedin.com/in/marvin-knabe/
 
-<!-- Single stats widget. Remove until you have commit history if the near-zero numbers read as empty. -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=777marvin&show_icons=true&hide_border=true&count_private=true)
+
+
