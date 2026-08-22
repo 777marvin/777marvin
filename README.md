@@ -16,6 +16,8 @@ agent development.
   AiderDesk. Compresses agent input in three stages (structural, truncate,
   summarize) and offloads summarization to a local Ollama model.
 
+![ext-broke compressing agent input in a real session](https://raw.githubusercontent.com/777marvin/ext-broke/main/docs/assets/stats.png)
+
 ## How I work
 
 - **BMAD** (Breakthrough Method for Agile AI-Driven Development): role-based
@@ -32,5 +34,6 @@ agent development.
 
 ## Contact
 
-- Email: 777marvin.dev@proton.me
-- LinkedIn: https://www.linkedin.com/in/marvin-knabe/
+* Bug reports and feature ideas: open an issue in [ext-broke](https://github.com/777marvin/ext-broke/issues).
+* Collaboration or contract work at the intersection of engineering
+  and AI agents: [777marvin.dev@proton.me](mailto:777marvin.dev@proton.me) · [LinkedIn](https://www.linkedin.com/in/marvin-knabe/)
