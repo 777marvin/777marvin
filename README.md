@@ -23,10 +23,6 @@ AI-agent development**.
 
 ## WHAT I BUILD
 
-<table>
-<tr>
-<td width="58%" valign="top">
-
 **[ext-broke](https://github.com/777marvin/ext-broke)** — token budget extension
 for [AiderDesk](https://github.com/hotovo/aider-desk).
 
@@ -40,26 +36,16 @@ request. The stored task history is never touched.
 npx @aiderdesk/extensions install -g https://github.com/777marvin/ext-broke
 ```
 
-</td>
-<td width="42%" valign="top">
+**Synthetic benchmark** — 67 messages, 351,403 chars, deterministic, no LLM:
 
-**Synthetic benchmark** (67 messages · 351,403 chars · deterministic, no LLM):
-
-| level | chars removed | share of input |
-|---|---|---|
+| pipeline level | characters removed | share of input |
+| --- | ---: | ---: |
 | `truncate` (default) | **113,070** | ~32 % |
 | `summarize` (max) | **315,263** | ~90 % |
 
-Tokens are the `chars / 4` estimate — the same heuristic the extension itself
-reports, labelled as an estimate and never as a billing promise.
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/777marvin/ext-broke/main/docs/assets/stats.png" alt="ext-broke compressing agent input in a real session" width="820">
-</p>
+Tokens are the `chars / 4` estimate — the same heuristic the extension reports,
+labelled as an estimate and never as a billing promise. The live numbers come
+from your own sessions through the 💸 badge and `/broke stats`.
 
 ## HOW I WORK
 
